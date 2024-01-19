@@ -1,0 +1,7 @@
+E:\dev\c#-course\Day1\Day1\bin\Debug\Day1.exe.config
+E:\dev\c#-course\Day1\Day1\bin\Debug\Day1.exe
+E:\dev\c#-course\Day1\Day1\bin\Debug\Day1.pdb
+E:\dev\c#-course\Day1\Day1\obj\Debug\Day1.csproj.AssemblyReference.cache
+E:\dev\c#-course\Day1\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+E:\dev\c#-course\Day1\Day1\obj\Debug\Day1.exe
+E:\dev\c#-course\Day1\Day1\obj\Debug\Day1.pdb
